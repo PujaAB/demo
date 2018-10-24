@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> demo again
+</title>
+</head>
+<body>
+<p>
+The head tag contains information about the website and it’s also where you load CSS and JavaScript files. <br>
+We won’t be covering those today, but just so you know.<br>
+The body tag is the main content in the web page.<br>
+Everything that you see on the page will usually be in the body tag. <br>
+So we need to move that sentence we made at the beginning into the body.<br>
+</p>
+</body>
+</html>
